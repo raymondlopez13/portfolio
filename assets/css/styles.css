@@ -1,0 +1,19 @@
+:root {
+    --bg: rgb(69, 84, 90);
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* HEADER STYLES */
+.header-links {
+    text-decoration: none;
+    color: lightblue;
+    font-size: 26px;
+}
+nav ul li {
+    list-style-type: none;
+}
+.header-title {
+    color: var(--bg);
+    background-color: lightblue;
+}
