@@ -16,4 +16,13 @@ nav ul li {
 .header-title {
     color: var(--bg);
     background-color: lightblue;
+    box-shadow: 2px 2px 5px black;
+}
+/* END HEADER STYLES */
+
+/* HERO STYLES */
+.hero-text{
+    background-color: var(--bg);
+    color:lightblue;
+    box-shadow: 2px 2px 5px black;
 }
